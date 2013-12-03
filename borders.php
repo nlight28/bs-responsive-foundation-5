@@ -7,10 +7,9 @@
 <meta name="keywords" content="[[keywords]]" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
-  <script type="text/javascript" src="/core/js/colorbox/jquery.colorbox-min.js"></script> 
-    <link rel="stylesheet" type="text/css" href="/core/js/colorbox/colorbox.css" /> 
+
+
+
     <link rel="stylesheet" type="text/css" href="/core/jquery-ui.css" />
     <link rel="stylesheet" type="text/css" href="/core/v2/jquery-ui-default.css" /> 
     <link rel="stylesheet" type="text/css" href="/inc/foundation.css" />
@@ -24,6 +23,8 @@
     <link rel="stylesheet" type="text/css" href="/inc/template.css" />
     <link rel="stylesheet" type="text/css" href="/inc/mobile.css" />
       <!--<link rel="stylesheet" type="text/css" href="/inc/screen.css" />-->
+
+
 
 
   <body>
@@ -305,19 +306,26 @@
 
 
 
-
-
-<script src="/inc/main.js"></script>
-
 <!-- FOR IE 8 to read media queries -->
 <script src="/core/js/responsive/respond.min.js"></script>
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.4.3/jquery.colorbox-min.js"></script> 
+   <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.4.3/example1/colorbox.min.css" /> 
+   
+<script src="/inc/main.js"></script>
+
+
 <!-- JS Fun -->
 <script src="/core/js/jquery.thScrollable.js" type="text/javascript"></script>
+
 <script src="/inc/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
-    
+
+  
 
   </body>
 </html>
