@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="/inc/mobile.css" />
       <!--<link rel="stylesheet" type="text/css" href="/inc/screen.css" />-->
 
-
+</head>
 
 
   <body>
