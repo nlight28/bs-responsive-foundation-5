@@ -7,9 +7,6 @@
 <meta name="keywords" content="[[keywords]]" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-
-
-
     <link rel="stylesheet" type="text/css" href="/core/jquery-ui.css" />
     <link rel="stylesheet" type="text/css" href="/core/v2/jquery-ui-default.css" /> 
     <link rel="stylesheet" type="text/css" href="/inc/foundation.css" />
@@ -22,7 +19,7 @@
     <!--<link rel="stylesheet" type="text/css" href="/core/v2/color/buttons/blue-bright/button-green.css" />-->
     <link rel="stylesheet" type="text/css" href="/inc/template.css" />
     <link rel="stylesheet" type="text/css" href="/inc/mobile.css" />
-      <!--<link rel="stylesheet" type="text/css" href="/inc/screen.css" />-->
+      <link rel="stylesheet" type="text/css" href="/inc/screen.css" />
 
 </head>
 
