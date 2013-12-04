@@ -32,7 +32,7 @@
 
  <div class="off-canvas-wrap">
   <div class="inner-wrap">
-    <nav class="tab-bar show-for-medium-down">
+    <nav class="tab-bar show-for-small-only">
       <section class="left-small">
         <a class="left-off-canvas-toggle menu-icon" ><span></span></a>
       </section>
@@ -68,13 +68,13 @@
  
   <div class="row">
  
-      <div class="large-6 columns hide-for-medium-down">
+      <div class="large-6 medium-6 columns show-for-medium-up">
             <div class="logo-desktop">
               <a href="/"><img src="http://www.thrasherbasement.com/images/layout/thrasher-logo.png" style="padding:15px;"></a>
             </div>
          </div>
 
-     <div class="large-6 columns columns hide-for-medium-down">     
+     <div class="large-6 medium-6 columns columns show-for-medium-up">     
       
       <?php 
       $times = get_open_time();
@@ -102,13 +102,13 @@
         
       </div>
 
-      <div class="small-12 small-centered columns show-for-medium-down">
+      <div class="small-12 small-centered columns show-for-small-only">
             <div class="logo-mobile">
               <a href="/"> <img src="http://www.thrasherbasement.com/images/layout/thrasher-logo.png"></a>
             </div>
          </div>
  
-       <div class="smamll-12 small-centered columns show-for-medium-down" style="text-align:center;">
+       <div class="small-12 small-centered columns show-for-small-only" style="text-align:center;">
           <div class="phone-contact">
           <a href="/free-estimate.html" class="button">Contact Us Today For A FREE Estimate</a>
           <p>Or Give Us A Call</p>
@@ -131,7 +131,7 @@
  
 <div class="row">
 <!-- Main Content -->
- <div class="large-9 columns" id="content-wrap" role="content">
+ <div class="large-9 medium-9 columns" id="content-wrap" role="content">
   
     <?php
     if($thePage == 'index') //if homepage show main splash
@@ -278,7 +278,7 @@
 
         
      <!-- Sidebar -->
-    <div class="large-3 columns">
+    <div class="large-3 medium-3 columns">
       [[sidebar]]
     </div>  <!-- End Sidebar -->
 
