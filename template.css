@@ -48,8 +48,10 @@ p {
     float: left !important;
 }
 
-.row {
-    background: white;
+.wrapper {
+   max-width: 60.9rem;
+margin: 0 auto;
+background: white;
 }
 
 /* Flat Buttons */
